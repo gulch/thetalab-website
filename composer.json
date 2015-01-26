@@ -1,0 +1,27 @@
+{
+  "name": "Theta Lab Site",
+  "description": "Theta Lab Web Site",
+  "keywords": ["thetalab"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Gulch",
+      "email": "contact@gulch.in.ua",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.0",
+    "filp/whoops": ">=1.1.2",
+    "patricklouys/http": ">=1.1.0",
+    "zaininnari/html-minifier": "*",
+    "nikic/fast-route": "dev-master",
+    "rdlowrey/auryn": "~0.14",
+    "twig/twig": "~1.18"
+  },
+  "autoload": {
+    "psr-4": {
+      "ThetaLab\\": "src/"
+    }
+  }
+}
