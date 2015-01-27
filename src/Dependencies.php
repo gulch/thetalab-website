@@ -27,4 +27,6 @@ $injector->define('ThetaLab\Page\FilePageReader', [
 $injector->alias('ThetaLab\Page\PageReader', 'ThetaLab\Page\FilePageReader');
 $injector->share('ThetaLab\Page\FilePageReader');
 
+$injector->define('jnmorse\DataUri\DataUri' ,[]);
+
 return $injector;

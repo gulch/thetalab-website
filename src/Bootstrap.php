@@ -6,13 +6,13 @@ error_reporting(E_ALL);
 
 require __DIR__ . '/../vendor/autoload.php';
 
-$environment = 'development';
+$config = include(__DIR__.'/Config.php');
 
 /**
  * Register the error handler
  */
 $whoops = new \Whoops\Run;
-if ($environment !== 'production') {
+if ($config['environment'] !== 'production') {
     $whoops->pushHandler(new \Whoops\Handler\PrettyPageHandler);
 }
 $whoops->register();
@@ -58,4 +58,10 @@ switch ($routeInfo[0]) {
 foreach($response->getHeaders() as $header){
     header($header);
 }
+
+if($config['environment'] === 'production')
+{
+    $response->setContent(\ThetaLab\Lib\Minify::minifyHTML($response->getContent()));
+}
+
 echo $response->getContent();

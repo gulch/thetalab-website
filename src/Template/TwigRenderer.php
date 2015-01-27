@@ -4,6 +4,8 @@
 namespace ThetaLab\Template;
 
 use Twig_Environment;
+use Twig_SimpleFilter;
+use jnmorse\DataUri;
 
 class TwigRenderer implements Renderer{
 
@@ -12,6 +14,15 @@ class TwigRenderer implements Renderer{
     public function __construct(Twig_Environment $engine)
     {
         $this->engine = $engine;
+        $this->addFilterBaseUri();
+    }
+
+    private function addFilterBaseUri()
+    {
+        $filter = new Twig_SimpleFilter('baseuri', function ($string) {
+            return DataUri::make($string);
+        });
+        $this->engine->addFilter($filter);
     }
 
     public function render($template, $data = [])

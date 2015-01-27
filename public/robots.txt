@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow: 
+Sitemap: http://thetalab.tk/sitemap.xml

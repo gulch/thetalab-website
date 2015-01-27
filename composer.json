@@ -14,11 +14,17 @@
     "php": ">=5.5.0",
     "filp/whoops": ">=1.1.2",
     "patricklouys/http": ">=1.1.0",
-    "zaininnari/html-minifier": "*",
     "nikic/fast-route": "dev-master",
     "rdlowrey/auryn": "~0.14",
-    "twig/twig": "~1.18"
+    "twig/twig": "~1.18",
+    "joseph/dataurl": "dev-master"
   },
+  "repositories":[
+    {
+      "type":"git",
+      "url":"http://github.com/jnmorse/DataUri"
+    }
+  ],
   "autoload": {
     "psr-4": {
       "ThetaLab\\": "src/"
