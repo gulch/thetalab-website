@@ -18,7 +18,8 @@ $injector->share('Http\HttpResponse');
 $injector->alias('ThetaLab\Template\Renderer', 'ThetaLab\Template\TwigRenderer');
 
 $injector->define('Twig_Environment', [
-    ':loader' => new Twig_Loader_Filesystem(__DIR__ . '/Views')
+    ':loader' => new Twig_Loader_Filesystem(__DIR__ . '/Views') /*,
+    ':options' => ['cache' => __DIR__.'/Cache'] */
 ]);
 
 $injector->define('ThetaLab\Page\FilePageReader', [
