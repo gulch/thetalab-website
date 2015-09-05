@@ -1,14 +1,13 @@
 <?php
 
-
 namespace ThetaLab\Template;
 
+use jnmorse\DataUri;
 use Twig_Environment;
 use Twig_SimpleFilter;
-use jnmorse\DataUri;
 
-class TwigRenderer implements Renderer{
-
+class TwigRenderer implements Renderer
+{
     private $engine;
 
     public function __construct(Twig_Environment $engine)

@@ -27,7 +27,7 @@ class FilePageReader implements PageReader
 
         $path = "$this->pageFolder/$filename";
 
-        if(!file_exists($path)) {
+        if (!file_exists($path)) {
             throw new InvalidPageException($slug);
         }
 

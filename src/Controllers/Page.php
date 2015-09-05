@@ -3,12 +3,12 @@
 namespace ThetaLab\Controllers;
 
 use Http\Response;
-use ThetaLab\Template\Renderer;
-use ThetaLab\Page\PageReader;
 use ThetaLab\Page\InvalidPageException;
+use ThetaLab\Page\PageReader;
+use ThetaLab\Template\Renderer;
 
-class Page {
-
+class Page
+{
     private $response;
     private $renderer;
     private $pageReader;
@@ -25,7 +25,9 @@ class Page {
 
     public function show($params)
     {
-        if(!sizeof($params)) $params['slug'] = 'Home';
+        if (!count($params)) {
+            $params['slug'] = 'Home';
+        }
         $slug = $params['slug'];
 
         try {
@@ -41,12 +43,14 @@ class Page {
     public function show404()
     {
         $this->response->setStatusCode(404);
+
         return $this->response->setContent($this->renderer->render('Errors/404.php'));
     }
 
     public function showErrorPage()
     {
         $this->response->setStatusCode(404);
+
         return $this->response->setContent($this->renderer->render('Errors/Unknown.php'));
     }
 }

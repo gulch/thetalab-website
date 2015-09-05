@@ -2,18 +2,17 @@
 
 namespace ThetaLab\Lib;
 
-
 class Minify
 {
-
     /**
-     * Minify
+     * Minify.
      *
      * Reduce excessive size of HTML/CSS/JavaScript content.
      *
-     * @param    string $output Output to minify
-     * @param    string $type Output content MIME type
-     * @return    string    Minified output
+     * @param string $output Output to minify
+     * @param string $type   Output content MIME type
+     *
+     * @return string Minified output
      */
     public static function minifyHTML($output, $type = 'text/html')
     {
@@ -34,12 +33,12 @@ class Minify
                 // Minify the CSS in all the <style> tags.
                 preg_match_all('{<style.+</style>}msU', $output, $style_clean);
                 foreach ($style_clean[0] as $s) {
-                    $output = str_replace($s, self::minifyJsCss($s, 'css', TRUE), $output);
+                    $output = str_replace($s, self::minifyJsCss($s, 'css', true), $output);
                 }
 
                 // Minify the javascript in <script> tags.
                 foreach ($javascript_clean[0] as $s) {
-                    $javascript_mini[] = self::minifyJsCss($s, 'js', TRUE);
+                    $javascript_mini[] = self::minifyJsCss($s, 'js', true);
                 }
 
                 // Replace multiple spaces with a single space.
@@ -97,19 +96,20 @@ class Minify
     // --------------------------------------------------------------------
 
     /**
-     * Minify JavaScript and CSS code
+     * Minify JavaScript and CSS code.
      *
      * Strips comments and excessive whitespace characters
      *
-     * @param    string $output
-     * @param    string $type 'js' or 'css'
-     * @param    bool $tags Whether $output contains the 'script' or 'style' tag
-     * @return    string
+     * @param string $output
+     * @param string $type   'js' or 'css'
+     * @param bool   $tags   Whether $output contains the 'script' or 'style' tag
+     *
+     * @return string
      */
-    public static function minifyJsCss($output, $type, $tags = FALSE)
+    public static function minifyJsCss($output, $type, $tags = false)
     {
-        if ($tags === TRUE) {
-            $tags = array('close' => strrchr($output, '<'));
+        if ($tags === true) {
+            $tags = ['close' => strrchr($output, '<')];
 
             $open_length = strpos($output, '>') + 1;
             $tags['open'] = substr($output, 0, $open_length);
@@ -125,7 +125,7 @@ class Minify
         if ($type === 'js') {
             // Catch all string literals and comment blocks
             if (preg_match_all('#((?:((?<!\\\)\'|")|(/\*)|(//)).*(?(2)(?<!\\\)\2|(?(3)\*/|\n)))#msuUS', $output, $match, PREG_OFFSET_CAPTURE)) {
-                $js_literals = $js_code = array();
+                $js_literals = $js_code = [];
                 for ($match = $match[0], $c = count($match), $i = $pos = $offset = 0; $i < $c; $i++) {
                     $js_code[$pos++] = trim(substr($output, $offset, $match[$i][1] - $offset));
                     $offset = $match[$i][1] + strlen($match[$i][0]);
@@ -140,8 +140,8 @@ class Minify
                 // $match might be quite large, so free it up together with other vars that we no longer need
                 unset($match, $offset, $pos);
             } else {
-                $js_code = array($output);
-                $js_literals = array();
+                $js_code = [$output];
+                $js_literals = [];
             }
 
             $varname = 'js_code';
@@ -150,20 +150,20 @@ class Minify
         }
 
         // Standartize new lines
-        $$varname = str_replace(array("\r\n", "\r"), "\n", $$varname);
+        $$varname = str_replace(["\r\n", "\r"], "\n", $$varname);
 
         if ($type === 'js') {
-            $patterns = array(
+            $patterns = [
                 '#\s*([!\#%&()*+,\-./:;<=>?@\[\]^`{|}~])\s*#' => '$1',    // Remove spaces following and preceeding JS-wise non-special & non-word characters
-                '#\s{2,}#' => ' '        // Reduce the remaining multiple whitespace characters to a single space
-            );
+                '#\s{2,}#'                                    => ' ',        // Reduce the remaining multiple whitespace characters to a single space
+            ];
         } else {
-            $patterns = array(
-                '#/\*.*(?=\*/)\*/#s' => '',        // Remove /* block comments */
-                '#\n?//[^\n]*#' => '',        // Remove // line comments
+            $patterns = [
+                '#/\*.*(?=\*/)\*/#s'   => '',        // Remove /* block comments */
+                '#\n?//[^\n]*#'        => '',        // Remove // line comments
                 '#\s*([^\w.\#%])\s*#U' => '$1',    // Remove spaces following and preceeding non-word characters, excluding dots, hashes and the percent sign
-                '#\s{2,}#' => ' '        // Reduce the remaining multiple space characters to a single space
-            );
+                '#\s{2,}#'             => ' ',        // Reduce the remaining multiple space characters to a single space
+            ];
         }
 
         $$varname = preg_replace(array_keys($patterns), array_values($patterns), $$varname);
@@ -177,8 +177,7 @@ class Minify
         }
 
         return is_array($tags)
-            ? $tags['open'] . $output . $tags['close']
+            ? $tags['open'].$output.$tags['close']
             : $output;
     }
-
 }
