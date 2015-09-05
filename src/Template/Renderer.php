@@ -1,10 +1,8 @@
 <?php
 
-
 namespace ThetaLab\Template;
 
-
-interface Renderer {
-
+interface Renderer
+{
     public function render($template, $data = []);
 }
