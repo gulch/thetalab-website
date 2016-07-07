@@ -2,160 +2,154 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b98721b-f5cd-44bf-90e4-5beacaae319e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/clients/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/soc/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/soc/10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/works/101.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/works/102.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/soc/11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/soc/12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/soc/13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/soc/14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/clients/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/soc/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/works/201.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/works/202.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/clients/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/soc/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/works/301.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/works/302.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/works/303.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/works/304.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/clients/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/soc/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/works/401.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/works/402.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/works/403.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/works/404.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/clients/5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/soc/5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/works/501.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/works/502.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/works/503.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/works/504.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/works/505.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/works/506.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/works/507.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/works/508.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/works/509.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/clients/6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/soc/6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/works/601.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/works/602.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/clients/7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/soc/7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/works/701.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/works/702.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/works/703.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/works/704.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/soc/8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/soc/9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/font/BebasNeue-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/font/BebasNeue-webfont.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/font/BebasNeue-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/font/BebasNeue-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/font/Descr.WD3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/font/OpenSans-Bold-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/font/OpenSans-Light-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/font/OpenSans-Regular-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/apple-touch-icon-114x114.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/apple-touch-icon-114x114.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/apple-touch-icon-120x120.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/apple-touch-icon-144x144.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/apple-touch-icon-152x152.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/apple-touch-icon-180x180.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/apple-touch-icon-57x57.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/apple-touch-icon-60x60.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/apple-touch-icon-72x72.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/apple-touch-icon-72x72.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/apple-touch-icon-76x76.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/apple-touch-icon-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/apple-touch-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/apple-touch-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/arrow-down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/arrow-list.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/bg0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/blank.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/checkmark-list.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/detals.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/email27.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/fancybox_loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/fancybox_overlay.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/fancybox_sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/favicon-160x160.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/favicon-16x16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/favicon-192x192.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/favicon-32x32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/favicon-96x96.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/favicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/icon-check.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/icon-menu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/logo-top.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/mag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/marker.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mstile-144x144.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mstile-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mstile-310x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mstile-310x310.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mstile-70x70.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/photo-list.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/preload.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/services-list.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/test.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/thetalab-social-img-cover.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/vid.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/world90.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/8ea70b37cd18.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/font/BebasNeue-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Views/Parts/Counters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Views/Gulch-blog.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Views/Parts/Header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Lib/Minify.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Views/Mono-pano2vr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Views/Novy-format.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Views/Oha-oha.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Views/Sphered-blog.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Views/Sphered-project.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Views/Sphered.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Views/Parts/Tmpl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/b4c7f2a8c59d.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/browserconfig.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/google5d413dc23840aed1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/font/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/clients/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/soc/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/imagez/works/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mywotc558138f22529487de3d.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/pinterest-128d0.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sitemap.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/styles.full.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/yandex_48b41f4537254e41.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/yandex_655ebd1f24b611c5.txt" />
-      <change type="MOVED" beforePath="C:\OpenServer\domains\beta.thetalab.local\src\Views\Parts\Footer.php" afterPath="$PROJECT_DIR$/src/Config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/clients/8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/clients/9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/favicon/android-chrome-192x192.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/favicon/android-chrome-512x512.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/favicon/apple-touch-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/favicon/favicon-16x16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/favicon/favicon-32x32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/favicon/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/favicon/mstile-150x150.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/works/801.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/works/802.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/works/803.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/works/804.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/works/805.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/works/806.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/works/901.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/works/902.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/works/903.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/works/904.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/works/m101.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/works/m201.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/works/m301.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/works/m401.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/works/m501.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/works/m601.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/works/m701.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/style.full.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/style.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/favicon/browserconfig.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/favicon/manifest.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/favicon/safari-pinned-tab.svg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/apple-touch-icon-114x114.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/apple-touch-icon-120x120.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/apple-touch-icon-144x144.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/apple-touch-icon-152x152.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/apple-touch-icon-180x180.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/apple-touch-icon-57x57.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/apple-touch-icon-60x60.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/apple-touch-icon-72x72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/apple-touch-icon-76x76.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/apple-touch-icon-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/apple-touch-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/browserconfig.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/favicon-160x160.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/favicon-16x16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/favicon-192x192.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/favicon-32x32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/favicon-96x96.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imagez/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imagez/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imagez/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imagez/4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imagez/apple-touch-icon-114x114.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imagez/apple-touch-icon-72x72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imagez/apple-touch-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imagez/clients/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imagez/favicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imagez/icon-menu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imagez/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imagez/mag.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imagez/marker.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imagez/services-list.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imagez/soc/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imagez/test.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imagez/twitter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imagez/vid.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/imagez/works/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/mstile-144x144.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/mstile-150x150.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/mstile-310x150.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/mstile-310x310.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/mstile-70x70.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/sitemap.xml" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/css/font/index.html" afterPath="$PROJECT_DIR$/public/img/works/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/arrow-down.png" afterPath="$PROJECT_DIR$/public/img/general/arrow-down.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/arrow-list.png" afterPath="$PROJECT_DIR$/public/img/general/arrow-list.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/bg0.jpg" afterPath="$PROJECT_DIR$/public/img/general/bg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/blank.gif" afterPath="$PROJECT_DIR$/public/img/general/blank.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/checkmark-list.png" afterPath="$PROJECT_DIR$/public/img/general/checkmark-list.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/clients/1.png" afterPath="$PROJECT_DIR$/public/img/clients/1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/clients/2.png" afterPath="$PROJECT_DIR$/public/img/clients/2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/clients/3.png" afterPath="$PROJECT_DIR$/public/img/clients/3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/clients/4.png" afterPath="$PROJECT_DIR$/public/img/clients/4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/clients/5.png" afterPath="$PROJECT_DIR$/public/img/clients/5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/clients/6.png" afterPath="$PROJECT_DIR$/public/img/clients/6.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/clients/7.png" afterPath="$PROJECT_DIR$/public/img/clients/7.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/detals.png" afterPath="$PROJECT_DIR$/public/img/general/detals.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/email27.png" afterPath="$PROJECT_DIR$/public/img/general/email.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/fancybox_loading.gif" afterPath="$PROJECT_DIR$/public/img/general/fancybox_loading.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/fancybox_overlay.png" afterPath="$PROJECT_DIR$/public/img/general/fancybox_overlay.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/fancybox_sprite.png" afterPath="$PROJECT_DIR$/public/img/general/fancybox_sprite.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/icon-check.png" afterPath="$PROJECT_DIR$/public/img/general/icon-check.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/logo-top.png" afterPath="$PROJECT_DIR$/public/img/general/logo-top.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/logo.png" afterPath="$PROJECT_DIR$/public/img/general/logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/photo-list.png" afterPath="$PROJECT_DIR$/public/img/general/photo-list.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/preload.gif" afterPath="$PROJECT_DIR$/public/img/general/preload.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/soc/1.png" afterPath="$PROJECT_DIR$/public/img/soc/1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/soc/10.png" afterPath="$PROJECT_DIR$/public/img/soc/10.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/soc/11.png" afterPath="$PROJECT_DIR$/public/img/soc/11.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/soc/12.png" afterPath="$PROJECT_DIR$/public/img/soc/12.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/soc/13.png" afterPath="$PROJECT_DIR$/public/img/soc/13.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/soc/14.png" afterPath="$PROJECT_DIR$/public/img/soc/14.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/soc/2.png" afterPath="$PROJECT_DIR$/public/img/soc/2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/soc/3.png" afterPath="$PROJECT_DIR$/public/img/soc/3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/soc/4.png" afterPath="$PROJECT_DIR$/public/img/soc/4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/soc/5.png" afterPath="$PROJECT_DIR$/public/img/soc/5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/soc/6.png" afterPath="$PROJECT_DIR$/public/img/soc/6.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/soc/7.png" afterPath="$PROJECT_DIR$/public/img/soc/7.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/soc/8.png" afterPath="$PROJECT_DIR$/public/img/soc/8.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/soc/9.png" afterPath="$PROJECT_DIR$/public/img/soc/9.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/thetalab-social-img-cover.jpg" afterPath="$PROJECT_DIR$/public/img/general/thetalab-social-img-cover.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/works/101.jpg" afterPath="$PROJECT_DIR$/public/img/works/101.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/works/102.jpg" afterPath="$PROJECT_DIR$/public/img/works/102.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/works/201.jpg" afterPath="$PROJECT_DIR$/public/img/works/201.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/works/202.jpg" afterPath="$PROJECT_DIR$/public/img/works/202.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/works/301.jpg" afterPath="$PROJECT_DIR$/public/img/works/301.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/works/302.jpg" afterPath="$PROJECT_DIR$/public/img/works/302.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/works/303.jpg" afterPath="$PROJECT_DIR$/public/img/works/303.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/works/304.jpg" afterPath="$PROJECT_DIR$/public/img/works/304.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/works/401.jpg" afterPath="$PROJECT_DIR$/public/img/works/401.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/works/402.jpg" afterPath="$PROJECT_DIR$/public/img/works/402.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/works/403.jpg" afterPath="$PROJECT_DIR$/public/img/works/403.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/works/404.jpg" afterPath="$PROJECT_DIR$/public/img/works/404.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/works/501.jpg" afterPath="$PROJECT_DIR$/public/img/works/501.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/works/502.jpg" afterPath="$PROJECT_DIR$/public/img/works/502.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/works/503.jpg" afterPath="$PROJECT_DIR$/public/img/works/503.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/works/504.jpg" afterPath="$PROJECT_DIR$/public/img/works/504.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/works/505.jpg" afterPath="$PROJECT_DIR$/public/img/works/505.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/works/506.jpg" afterPath="$PROJECT_DIR$/public/img/works/506.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/works/507.jpg" afterPath="$PROJECT_DIR$/public/img/works/507.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/works/508.jpg" afterPath="$PROJECT_DIR$/public/img/works/508.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/works/509.jpg" afterPath="$PROJECT_DIR$/public/img/works/509.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/works/601.jpg" afterPath="$PROJECT_DIR$/public/img/works/601.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/works/602.jpg" afterPath="$PROJECT_DIR$/public/img/works/602.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/works/701.jpg" afterPath="$PROJECT_DIR$/public/img/works/701.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/works/702.jpg" afterPath="$PROJECT_DIR$/public/img/works/702.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/works/703.jpg" afterPath="$PROJECT_DIR$/public/img/works/703.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/works/704.jpg" afterPath="$PROJECT_DIR$/public/img/works/704.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/imagez/world90.png" afterPath="$PROJECT_DIR$/public/img/general/world.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Views/Errors/404.php" afterPath="$PROJECT_DIR$/src/Views/Errors/404.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Bootstrap.php" afterPath="$PROJECT_DIR$/src/Bootstrap.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Dependencies.php" afterPath="$PROJECT_DIR$/src/Dependencies.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Views/Parts/Footer.php" afterPath="$PROJECT_DIR$/src/Views/Parts/Footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Views/Home.php" afterPath="$PROJECT_DIR$/src/Views/Home.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Template/TwigRenderer.php" afterPath="$PROJECT_DIR$/src/Template/TwigRenderer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Views/Errors/Unknown.php" afterPath="$PROJECT_DIR$/src/Views/Errors/Unknown.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/index.html" afterPath="$PROJECT_DIR$/public/js/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/script.js" afterPath="$PROJECT_DIR$/public/js/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/robots.txt" afterPath="$PROJECT_DIR$/public/robots.txt" />
     </list>
     <ignored path="beta.thetalab.local.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -171,9 +165,6 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="DaemonCodeAnalyzer">
-    <disable_hints />
-  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="beta.thetalab.local" />
@@ -185,33 +176,30 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/Lib/Minify.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/vendor/composer/autoload_real.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/Controllers/Page.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/Views/Home.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/composer.json" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/Template/TwigRenderer.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Views/Sphered-project.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/Bootstrap.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/Views/Parts/Counters.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Controllers/Page.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Template/TwigRenderer.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Views/Home.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lib/Minify.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/composer.json" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Views/Parts/Footer.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Dependencies.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Views/Parts/Header.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Views/Parts/Counters.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Bootstrap.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/public/css/styles.full.css" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/public/index.php" />
         <option value="$PROJECT_DIR$/src/Controllers/Homepage.php" />
         <option value="$PROJECT_DIR$/src/PageReader.php" />
         <option value="$PROJECT_DIR$/src/Page/InvalidPageException.php" />
         <option value="$PROJECT_DIR$/src/Template/Renderer.php" />
-        <option value="$PROJECT_DIR$/src/Routes.php" />
         <option value="$PROJECT_DIR$/src/Page/FilePageReader.php" />
         <option value="$PROJECT_DIR$/src/Views/404.php" />
         <option value="$PROJECT_DIR$/src/Views/Errors/General.php" />
         <option value="$PROJECT_DIR$/src/Controllers/Page.php" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/Views/Parts/Tmpl.php" />
         <option value="$PROJECT_DIR$/src/Views/Errors/404.php" />
         <option value="$PROJECT_DIR$/src/Views/Errors/Unknown.php" />
@@ -224,7 +212,6 @@
         <option value="$PROJECT_DIR$/src/Lib/Minify.php" />
         <option value="$PROJECT_DIR$/src/Dependencies.php" />
         <option value="$PROJECT_DIR$/src/Bootstrap.php" />
-        <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/public/css/style.css" />
         <option value="$PROJECT_DIR$/src/Template/TwigRenderer.php" />
         <option value="$PROJECT_DIR$/src/Views/Parts/Header.php" />
@@ -235,11 +222,19 @@
         <option value="$PROJECT_DIR$/src/Views/Parts/Footer.php" />
         <option value="$PROJECT_DIR$/src/Views/Parts/Counters.php" />
         <option value="$PROJECT_DIR$/public/css/styles.full.css" />
+        <option value="$PROJECT_DIR$/src/Routes.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/public/robots.txt" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/public/index.php" />
       </list>
     </option>
   </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
@@ -269,8 +264,12 @@
       <autoscrollToSource />
       <autoscrollFromSource />
       <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -285,8 +284,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="beta.thetalab.local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="thetalab_tk" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -295,26 +294,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="beta.thetalab.local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="beta.thetalab.local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="beta.thetalab.local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="thetalab_tk" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -323,147 +308,16 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="beta.thetalab.local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="beta.thetalab.local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="beta.thetalab.local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Parts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="beta.thetalab.local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="beta.thetalab.local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="beta.thetalab.local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="beta.thetalab.local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Page" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="beta.thetalab.local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="beta.thetalab.local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="beta.thetalab.local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="beta.thetalab.local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="beta.thetalab.local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="beta.thetalab.local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="thetalab_tk" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="beta.thetalab.local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="beta.thetalab.local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -475,6 +329,9 @@
     <property name="FullScreen" value="false" />
     <property name="LayoutCode.rearrangeEntriesHTML" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="prop_add_unversioned_files" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -484,30 +341,55 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
-      <TestRunner />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <pass-parent-envs>true</pass-parent-envs>
-      <envs />
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
       <method />
     </configuration>
     <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
-    <list size="0" />
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -516,33 +398,38 @@
       <changelist id="7b98721b-f5cd-44bf-90e4-5beacaae319e" name="Default" comment="" />
       <created>1422292338826</created>
       <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
       <updated>1422292338826</updated>
+      <workItem from="1467889366146" duration="725000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="725000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21748401" sideWeight="0.36972973" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2196162" sideWeight="0.63027024" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2217484" sideWeight="0.63027024" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21748401" sideWeight="0.36972973" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -556,400 +443,331 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <option name="myTodoPanelSettings">
-      <TodoPanelSettings />
-    </option>
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Views/Parts/Header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="522">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Template/TwigRenderer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="468">
-          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-          <folding>
-            <element signature="e#38#59#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Controllers/Page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="576" max-vertical-offset="1026">
-          <caret line="32" column="43" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
-          <folding>
-            <element signature="e#40#58#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Bootstrap.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="319" max-vertical-offset="1188">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Template/TwigRenderer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="468">
-          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-          <folding>
-            <element signature="e#38#59#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Controllers/Page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="576" max-vertical-offset="1026">
-          <caret line="32" column="43" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
-          <folding>
-            <element signature="e#40#58#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Bootstrap.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="319" max-vertical-offset="1188">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.04137931" vertical-offset="0" max-vertical-offset="870">
-          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/composer/autoload_real.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.74482757" vertical-offset="0" max-vertical-offset="1008">
-          <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/autoload.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="897">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/patricklouys/http/src/HttpRequest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22758621" vertical-offset="0" max-vertical-offset="3906">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/patricklouys/http/src/HttpResponse.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334" vertical-offset="3238" max-vertical-offset="4338">
-          <caret line="196" column="21" selection-start-line="196" selection-start-column="21" selection-end-line="196" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/nikic/fast-route/src/RouteCollector.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.57931036" vertical-offset="0" max-vertical-offset="870">
-          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Page/InvalidPageException.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20713463" vertical-offset="0" max-vertical-offset="869">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/SPL.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3429229" vertical-offset="404" max-vertical-offset="37224">
-          <caret line="39" column="6" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_5.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3429229" vertical-offset="4436" max-vertical-offset="20718">
-          <caret line="263" column="18" selection-start-line="263" selection-start-column="9" selection-end-line="263" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Page/FilePageReader.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43498275" vertical-offset="0" max-vertical-offset="869">
-          <caret line="21" column="49" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/nikic/fast-route/src/Dispatcher.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14499424" vertical-offset="0" max-vertical-offset="869">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.040133778" vertical-offset="0" max-vertical-offset="897">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Views/Errors/404.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="414">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Views/Errors/Unknown.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.666667" vertical-offset="0" max-vertical-offset="432">
+        <state relative-caret-position="0">
           <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Views/Sphered-project.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38965517" vertical-offset="129" max-vertical-offset="1026">
+        <state relative-caret-position="0">
           <caret line="26" column="60" selection-start-line="0" selection-start-column="0" selection-end-line="51" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Views/Sphered-blog.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35172415" vertical-offset="0" max-vertical-offset="900">
+        <state relative-caret-position="0">
           <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Views/Sphered.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.08275862" vertical-offset="0" max-vertical-offset="918">
+        <state relative-caret-position="0">
           <caret line="4" column="27" selection-start-line="0" selection-start-column="0" selection-end-line="45" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Views/Gulch-blog.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35172415" vertical-offset="0" max-vertical-offset="900">
+        <state relative-caret-position="0">
           <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Views/Novy-format.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.042007003" vertical-offset="0" max-vertical-offset="918">
+        <state relative-caret-position="0">
           <caret line="2" column="69" selection-start-line="2" selection-start-column="69" selection-end-line="2" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="216">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Lib/Minify.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.042007003" vertical-offset="0" max-vertical-offset="3420">
+        <state relative-caret-position="0">
           <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/rdlowrey/auryn/lib/Provider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3430572" vertical-offset="1416" max-vertical-offset="13626">
-          <caret line="95" column="20" selection-start-line="95" selection-start-column="20" selection-end-line="95" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/rdlowrey/auryn/lib/Provider.php" />
     <entry file="file://$PROJECT_DIR$/src/Controllers/Page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.555555" vertical-offset="156" max-vertical-offset="1026">
+        <state relative-caret-position="0">
           <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding>
-            <element signature="e#40#58#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5586207" vertical-offset="0" max-vertical-offset="870">
-          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/joseph/dataurl/src/jnmorse/DataUri.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.08275862" vertical-offset="0" max-vertical-offset="870">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/joseph/dataurl/src/jnmorse/DataUri.php" />
     <entry file="file://$PROJECT_DIR$/src/Template/TwigRenderer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45517242" vertical-offset="0" max-vertical-offset="870">
+        <state relative-caret-position="0">
           <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-          <folding>
-            <element signature="e#38#59#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Template/Renderer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14482759" vertical-offset="0" max-vertical-offset="870">
+        <state relative-caret-position="0">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Page/PageReader.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12413793" vertical-offset="0" max-vertical-offset="870">
+        <state relative-caret-position="0">
           <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Views/Mono-pano2vr.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33103448" vertical-offset="0" max-vertical-offset="900">
+        <state relative-caret-position="0">
           <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="54" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Bootstrap.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8551724" vertical-offset="426" max-vertical-offset="1296">
+        <state relative-caret-position="0">
           <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Views/Parts/Tmpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12413793" vertical-offset="0" max-vertical-offset="1350">
+        <state relative-caret-position="0">
           <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Views/Parts/Header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12413793" vertical-offset="0" max-vertical-offset="870">
+        <state relative-caret-position="0">
           <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Dependencies.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39310345" vertical-offset="0" max-vertical-offset="870">
+        <state relative-caret-position="0">
           <caret line="19" column="35" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10344828" vertical-offset="0" max-vertical-offset="870">
+        <state relative-caret-position="0">
           <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Views/Oha-oha.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37241378" vertical-offset="0" max-vertical-offset="918">
+        <state relative-caret-position="0">
           <caret line="18" column="79" selection-start-line="18" selection-start-column="79" selection-end-line="18" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1721" column="71" selection-start-line="1721" selection-start-column="71" selection-end-line="1721" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Views/Parts/Counters.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Views/Home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="228" column="57" selection-start-line="228" selection-start-column="57" selection-end-line="228" selection-end-column="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Views/Parts/Footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="6" column="162" selection-start-line="6" selection-start-column="162" selection-end-line="6" selection-end-column="162" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/css/styles.full.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="897">
+        <state relative-caret-position="573">
+          <caret line="2373" column="19" selection-start-line="2373" selection-start-column="19" selection-end-line="2373" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/style.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+    <entry file="file://$PROJECT_DIR$/public/css/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="3.8778281" vertical-offset="27550" max-vertical-offset="42966">
-          <caret line="1721" column="71" selection-start-line="1721" selection-start-column="71" selection-end-line="1721" selection-end-column="71" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Views/Parts/Counters.php">
+    <entry file="file://$PROJECT_DIR$/public/sitemap.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18620689" vertical-offset="0" max-vertical-offset="870">
-          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        <state relative-caret-position="-1547">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Views/Home.php">
+    <entry file="file://$PROJECT_DIR$/public/robots.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4749125" vertical-offset="3697" max-vertical-offset="4554">
-          <caret line="228" column="57" selection-start-line="228" selection-start-column="57" selection-end-line="228" selection-end-column="123" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Views/Parts/Footer.php">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.126021" vertical-offset="0" max-vertical-offset="857">
-          <caret line="6" column="162" selection-start-line="6" selection-start-column="162" selection-end-line="6" selection-end-column="162" />
+        <state relative-caret-position="220">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/favicon/browserconfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/favicon/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/general/favicon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/general/logo-top.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/general/photo-list.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/general/preload.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/general/thetalab-social-img-cover.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/general/world.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/general/fancybox_sprite.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/general/fancybox_overlay.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/general/fancybox_loading.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/general/email.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/general/detals.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/general/checkmark-list.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/general/blank.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/general/bg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/general/arrow-list.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/general/arrow-down.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

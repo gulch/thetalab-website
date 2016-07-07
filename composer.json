@@ -1,7 +1,9 @@
 {
   "name": "Theta Lab Site",
   "description": "Theta Lab Web Site",
-  "keywords": ["thetalab"],
+  "keywords": [
+    "thetalab"
+  ],
   "license": "MIT",
   "authors": [
     {
@@ -11,23 +13,28 @@
     }
   ],
   "require": {
-    "php": ">=5.5.0",
-    "filp/whoops": ">=1.1.2",
-    "patricklouys/http": ">=1.1.0",
-    "nikic/fast-route": "dev-master",
-    "rdlowrey/auryn": "~0.14",
-    "twig/twig": "~1.18",
-    "joseph/dataurl": "dev-master"
+    "patricklouys/http": "@stable",
+    "nikic/fast-route": "@stable",
+    "rdlowrey/auryn": "@stable",
+    "twig/twig": "@stable",
+    "jnmorse/dataurl": "@stable",
+    "gulch/gminify": "dev-master"
   },
-  "repositories":[
+  "repositories": [
     {
-      "type":"git",
-      "url":"http://github.com/jnmorse/DataUri"
+      "type": "git",
+      "url": "https://github.com/gulch/gminify"
     }
   ],
+  "require-dev": {
+    "filp/whoops": "@stable"
+  },
   "autoload": {
     "psr-4": {
       "ThetaLab\\": "src/"
     }
+  },
+  "config": {
+    "optimize-autoloader": true
   }
 }
