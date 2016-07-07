@@ -1,3 +1,36 @@
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url('/font/BebasNeue/bold.eot');
+    src: url('/font/BebasNeue/bold.eot?#iefix') format('embedded-opentype'),
+    url('/font/BebasNeue/bold.woff2') format('woff2'),
+    url('/font/BebasNeue/bold.woff') format('woff'),
+    url('/font/BebasNeue/bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('/font/OpenSans/regular.eot');
+    src: url('/font/OpenSans/regular.eot?#iefix') format('embedded-opentype'),
+        url('/font/OpenSans/regular.woff2') format('woff2'),
+        url('/font/OpenSans/regular.woff') format('woff'),
+        url('/font/OpenSans/regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('/font/OpenSans/light.eot');
+    src: url('/font/OpenSans/light.eot?#iefix') format('embedded-opentype'),
+        url('/font/OpenSans/light.woff2') format('woff2'),
+        url('/font/OpenSans/light.woff') format('woff'),
+        url('/font/OpenSans/light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
 html,
 body,
 div,
@@ -124,7 +157,8 @@ table {
 }
 body {
     background: #fff;
-    font: 16px/22px OpenSans-Light-webfont;
+    font: 16px/22px "Open Sans";
+    font-weight: 300;
     color: #e0e0e0;
     text-align: left;
     -webkit-font-smoothing: antialiased;
@@ -137,7 +171,7 @@ h4,
 h5,
 h6 {
     color: #fa9600;
-    font-family: 'BebasNeueRegular';
+    font-family: 'Bebas Neue';
     font-weight: 400
 }
 h1 a,
@@ -394,7 +428,8 @@ img.scale-with-grid {
 .quv {
     position: relative;
     background: url(/img/general/test.png) no-repeat top left;
-    font-family: 'OpenSans-Light-webfont';
+    font-family: 'Open Sans';
+    font-weight: 300;
     color: #e0e0e0;
     font-size: 24px;
     line-height: 34px;
@@ -405,7 +440,8 @@ img.scale-with-grid {
     text-indent: 60px
 }
 .quv-autor {
-    font-family: 'OpenSans-Light-webfont';
+    font-family: 'Open Sans';
+    font-weight: 300;
     color: #000;
     font-size: 16px;
     line-height: 22px;
@@ -432,7 +468,8 @@ img.scale-with-grid {
 #navigation ul li {
     display: inline;
     margin-right: 30px;
-    font-family: 'OpenSans-Regular-webfont'
+    font-family: 'Open Sans';
+    font-weight: normal;
 }
 #navigation a,
 #navigation a:active,
@@ -604,7 +641,7 @@ img.scale-with-grid {
     overflow: hidden
 }
 .text-home h5 {
-    font-family: 'BebasNeueRegular';
+    font-family: 'Bebas Neue';
     text-align: center;
     color: #FFF;
     top: 50%;
@@ -615,7 +652,8 @@ img.scale-with-grid {
     line-height: 70px
 }
 .text-home p {
-    font-family: 'OpenSans-Light-webfont';
+    font-family: 'Open Sans';
+    font-weight: 300;
     text-align: center;
     color: #fff;
     top: 50%;
@@ -663,7 +701,8 @@ img.scale-with-grid {
     padding-top: 20px
 }
 #about h5 {
-    font-family: 'OpenSans-Light-webfont';
+    font-family: 'Open Sans';
+    font-weight: 300;
     color: #e0e0e0;
     font-size: 22px;
     line-height: 32px;
@@ -697,8 +736,8 @@ img.scale-with-grid {
 .caption div {
     font-size: 18px;
     line-height: 40px;
-    font-family: 'OpenSans-Light-webfont';
-    font-weight: 400;
+    font-family: 'Open Sans';
+    font-weight: 300;
     color: #fff;
     text-shadow: 0 1px 1px #000 inset, 0 1px 0 #444
 }
@@ -831,7 +870,7 @@ img.scale-with-grid {
     margin-top: 100px;
     margin-bottom: 100px;
     padding-top: 60px;
-    font-family: 'OpenSans-Light-webfont';
+    font-family: 'Open Sans';
     font-size: 25px;
     color: #fff;
     font-weight: 100;
@@ -852,11 +891,11 @@ img.scale-with-grid {
     padding-top: 100px
 }
 #services h5 {
-    font-family: 'OpenSans-Light-webfont';
+    font-family: 'Open Sans';
+    font-weight: 300;
     color: #e0e0e0;
     font-size: 22px;
     line-height: 32px;
-    font-weight: 100;
     padding-bottom: 50px
 }
 .heading-and-icon {
@@ -927,10 +966,10 @@ img.scale-with-grid {
     text-align: center
 }
 #sep h5 {
-    font-family: 'OpenSans-Light-webfont';
+    font-family: 'Open Sans';
+    font-weight: 300;
     font-size: 25px;
     color: #fff;
-    font-weight: 100;
     line-height: 40px;
     font-style: italic;
     text-align: center
@@ -966,11 +1005,11 @@ img.scale-with-grid {
     padding-top: 100px
 }
 #works h5 {
-    font-family: 'OpenSans-Light-webfont';
+    font-family: 'Open Sans';
+    font-weight: 300;
     color: #e0e0e0;
     font-size: 22px;
     line-height: 32px;
-    font-weight: 100;
     padding-bottom: 50px
 }
 #works span {
@@ -1080,9 +1119,9 @@ img.scale-with-grid {
 a.inner-button-works {
     float: left;
     margin-top: 10px;
-    font-family: 'OpenSans-Light-webfont';
+    font-family: 'Open Sans';
+    font-weight: 300;
     font-style: normal;
-    font-weight: 100;
     font-size: 16px;
     color: #fff;
     padding: 4px;
@@ -1166,10 +1205,10 @@ a.inner-button-works:hover {
     text-align: center
 }
 #sep1 h5 {
-    font-family: 'OpenSans-Light-webfont';
+    font-family: 'Open Sans';
+    font-weight: 300;
     font-size: 25px;
     color: #fff;
-    font-weight: 100;
     line-height: 40px;
     font-style: italic;
     text-align: center
@@ -1183,11 +1222,11 @@ a.inner-button-works:hover {
     padding-bottom: 30px
 }
 #gallery h5 {
-    font-family: 'OpenSans-Light-webfont';
+    font-family: 'Open Sans';
+    font-weight: 300;
     color: #e0e0e0;
     font-size: 22px;
     line-height: 32px;
-    font-weight: 100;
     padding-bottom: 50px
 }
 .portfolio {
@@ -1334,18 +1373,19 @@ a.inner-button-works:hover {
     padding-top: 100px
 }
 #contact h5 {
-    font-family: 'OpenSans-Light-webfont';
+    font-family: 'Open Sans';
+    font-weight: 300;
     color: #e0e0e0;
     font-size: 22px;
     line-height: 32px;
-    font-weight: 100;
     padding-bottom: 50px
 }
 #contact h6 {
     padding-top: 30px
 }
 #contact h4 {
-    font-family: 'OpenSans-Light-webfont';
+    font-family: 'Open Sans';
+    font-weight: 300;
     padding-top: 20px;
     padding-bottom: 0;
     font-size: 24px;
@@ -1401,39 +1441,45 @@ a.inner-button-works:hover {
 }
 #ajax-form {
     width: 100%;
-    font: 16px/22px OpenSans-Light-webfont;
+    font: 16px/22px "Open Sans";
+    font-weight: 300;
     margin-left: auto;
     margin-right: auto
 }
 label {
     display: block;
-    font: 16px/34px OpenSans-Light-webfont
+    font: 16px/34px "Open Sans";
+    font-weight: 300;
 }
 input {
     width: 100%;
     border: 0;
     background: #d9d9d9;
-    font: 16px/22px OpenSans-Light-webfont;
+    font: 16px/22px "Open Sans";
+    font-weight: 300;
     margin-bottom: 5px;
     padding: 5px
 }
 textarea {
     width: 100%;
     background: #d9d9d9;
-    font: 16px/22px OpenSans-Light-webfont;
+    font: 16px/22px "Open Sans";
+    font-weight: 300;
     height: 120px;
     margin-bottom: 5px;
     padding: 5px
 }
 .error {
     color: #fa9600;
-    font: 16px/22px OpenSans-Light-webfont;
+    font: 16px/22px "Open Sans";
+    font-weight: 300;
     display: none
 }
 #ajaxsuccess {
     background: #383636;
     color: #fff;
-    font: 20px/60px OpenSans-Light-webfont;
+    font: 20px/60px "Open Sans";
+    font-weight: 300;
     height: 60px;
     border-left: 5px solid #000;
     display: none;
@@ -1445,7 +1491,9 @@ textarea {
 }
 #copyright {
     position: relative;
-    font-family: 'OpenSans-Regular-webfont';
+    font-family: 'Open Sans';
+    font-weight: 300;
+    font-weight: normal;
     background: #000;
     font-size: 12px;
     line-height: 16px;
@@ -1543,38 +1591,6 @@ textarea {
     .info-works {
         padding-top: 10px
     }
-}
-@font-face {
-    font-family: 'OpenSans-Light-webfont';
-    src: url(/font/OpenSans-Light-webfont.woff2) format("woff2"),
-         url(/font/OpenSans-Light-webfont.woff) format("woff");
-    font-weight: 400;
-    font-style: normal
-}
-@font-face {
-    font-family: 'OpenSans-Bold-webfont';
-    src: url(/font/OpenSans-Bold-webfont.woff2) format("woff2"),
-         url(/font/OpenSans-Bold-webfont.woff) format("woff");
-    font-weight: 400;
-    font-style: normal
-}
-@font-face {
-    font-family: 'OpenSans-Regular-webfont';
-    src: url(/font/OpenSans-Regular-webfont.woff2) format("woff2"),
-         url(/font/OpenSans-Regular-webfont.woff) format("woff");
-    font-weight: 400;
-    font-style: normal
-}
-@font-face {
-    font-family: 'BebasNeueRegular';
-    src: url(/font/BebasNeue-webfont.eot);
-    src: url(/font/BebasNeue-webfont.woff2) format("woff2"),
-         url(/font/BebasNeue-webfont.eot?#iefix) format("embedded-opentype"),
-         url(/font/BebasNeue-webfont.woff) format("woff"),
-         url(/font/BebasNeue-webfont.ttf) format("truetype"),
-         url(/font/BebasNeue-webfont.svg#BebasNeueRegular) format("svg");
-    font-weight: 400;
-    font-style: normal
 }
 .container {
     position: relative;
