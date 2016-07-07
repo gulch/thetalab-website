@@ -6,26 +6,27 @@
 
 
 {% block content %}
-<nav id=navigation class="project-nav"><a href="/"><img class=logo alt=logo src=/imagez/logo.png></a></nav>
+
+{% include "Parts/ProjectNav.php" %}
 
 <div id=work>
     <div class=container>
         <div class="sixteen columns">
-            <div class=project-logo><img src=/imagez/clients/4.png></div>
+            <div class=project-logo><img src=/img/clients/4.png></div>
             <div id=cbp-fwslider class=cbp-fwslider>
                 <ul>
-                    <li><img src=/imagez/works/401.jpg alt="Mono panel development"></li>
-                    <li><img src=/imagez/works/402.jpg alt="Mono panel design"></li>
-                    <li><img src=/imagez/works/403.jpg alt="Mono panel for panoramas"></li>
-                    <li><img src=/imagez/works/404.jpg alt="Mono panel for virtual tours"></li>
+                    <li><img src=/img/works/401.jpg alt="Mono panel development"></li>
+                    <li><img src=/img/works/402.jpg alt="Mono panel design"></li>
+                    <li><img src=/img/works/403.jpg alt="Mono panel for panoramas"></li>
+                    <li><img src=/img/works/404.jpg alt="Mono panel for virtual tours"></li>
                 </ul>
             </div>
         </div>
-        <div class="twelve columns"><h6>MONO - skin for Pano2VR</h6>
-
+        <div class="twelve columns">
+            <h6>MONO - skin for Pano2VR</h6>
             <p>Development Control Panel virtual tour or 3D view. Modern adaptive design. Made for Sphered Project.</p>
-
-            <p><a class=inner-button-works target=_blank href=http://sphered.com.ua/gallery>View</a></p></div>
+            <p><a class=inner-button-works target=_blank href=http://sphered.com.ua/gallery>View</a></p>
+        </div>
         <div id=services-list>
             <div class="four columns">
                 <ul>

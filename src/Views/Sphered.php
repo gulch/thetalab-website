@@ -6,24 +6,27 @@
 
 
 {% block content %}
-<nav id=navigation class="project-nav"><a href="/"><img class=logo alt=logo src=/imagez/logo.png></a></nav>
+
+{% include "Parts/ProjectNav.php" %}
 
 <div id=work>
     <div class=container>
         <div class="sixteen columns">
-            <div class=project-logo><img src=/imagez/clients/3.png></div>
+            <div class=project-logo>
+                <img src=/img/clients/3.png>
+            </div>
             <div id=cbp-fwslider class=cbp-fwslider>
                 <ul>
-                    <li><img src=/imagez/works/101.jpg alt="Sphered site development"></li>
-                    <li><img src=/imagez/works/102.jpg alt="Sphered site logic development"></li>
+                    <li><img src=/img/works/101.jpg alt="Sphered site development"></li>
+                    <li><img src=/img/works/102.jpg alt="Sphered site logic development"></li>
                 </ul>
             </div>
         </div>
-        <div class="twelve columns"><h6>SPHERED</h6>
-
+        <div class="twelve columns">
+            <h6>SPHERED</h6>
             <p>Full development service packet. Branding. SEO optimization. 3D Photo Services</p>
-
-            <p><a class=inner-button-works target=_blank href="http://sphered.com.ua/">View</a></p></div>
+            <p><a class=inner-button-works target=_blank href="http://sphered.com.ua/">View</a></p>
+        </div>
         <div id=services-list>
             <div class="four columns">
                 <ul>

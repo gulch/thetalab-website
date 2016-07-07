@@ -6,24 +6,25 @@
 
 
 {% block content %}
-<nav id=navigation class="project-nav"><a href="/"><img class=logo alt=logo src=/imagez/logo.png></a></nav>
+
+{% include "Parts/ProjectNav.php" %}
 
 <div id=work>
     <div class=container>
         <div class="sixteen columns">
-            <div class=project-logo><img src=/imagez/clients/6.png></div>
+            <div class=project-logo><img src=/img/clients/6.png></div>
             <div id=cbp-fwslider class=cbp-fwslider>
                 <ul>
-                    <li><img src=/imagez/works/601.jpg alt="Gulch Blog site development"></li>
-                    <li><img src=/imagez/works/602.jpg alt="Gulch Blog site logic development"></li>
+                    <li><img src=/img/works/601.jpg alt="Gulch Blog site development"></li>
+                    <li><img src=/img/works/602.jpg alt="Gulch Blog site logic development"></li>
                 </ul>
             </div>
         </div>
-        <div class="twelve columns"><h6>Gulch Blog - web developer's personal blog</h6>
-
+        <div class="twelve columns">
+            <h6>Gulch Blog - web developer's personal blog</h6>
             <p>Full development service packet. Branding. SEO optimization. Blogging Support</p>
-
-            <p><a class=inner-button-works target=_blank href="http://gulch.in.ua/">View</a></p></div>
+            <p><a class=inner-button-works target=_blank href="https://gulch.in.ua">View</a></p>
+        </div>
         <div id=services-list>
             <div class="four columns">
                 <ul>

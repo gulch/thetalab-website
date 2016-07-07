@@ -6,11 +6,15 @@
 
 
 {% block content %}
-<nav id=navigation class="project-nav"><a href="/"><img class=logo alt=logo src=/img/general/logo.png></a></nav>
+
+{% include "Parts/ProjectNav.php" %}
+
 <div id=work>
     <div class=container>
         <div class="sixteen columns">
-            <div class=project-logo><img src=imagez/clients/9.png></div>
+            <div class=project-logo>
+                <img alt="Funtime Kiev" src=/img/clients/9.png>
+            </div>
             <div id=cbp-fwslider class=cbp-fwslider>
                 <ul>
                     <li><img src=/img/works/902.jpg alt="Funtime website"></li>
@@ -19,7 +23,8 @@
                 </ul>
             </div>
         </div>
-        <div class="twelve columns"><h6>Funtime - usefully time!</h6>
+        <div class="twelve columns">
+            <h6>Funtime - usefully time!</h6>
             <p>Full development service packet. Branding. SEO optimization. Blogging Support. Web performance optimization.</p>
             <p><a class=inner-button-works target=_blank href="https://funtime.kiev.ua">View</a></p>
         </div>

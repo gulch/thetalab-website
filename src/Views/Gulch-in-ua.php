@@ -5,11 +5,8 @@
 {% set keywords = 'web design, wpo, user interface design, mobile design, branding, identity, seo' %}
 
 {% block content %}
-<nav id=navigation class="project-nav">
-    <a href="/">
-        <img class=logo alt=logo src=/img/general/logo.png>
-    </a>
-</nav>
+
+{% include "Parts/ProjectNav.php" %}
 
 <div id=work>
     <div class=container>

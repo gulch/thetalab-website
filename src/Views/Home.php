@@ -46,6 +46,31 @@
             <h5>Our latest works</h5>
         </div>
     </div>
+
+    <div class=container>
+        <div class="three columns">
+            <div class="client client10"></div>
+        </div>
+        <div class="nine columns">
+            <div class=view-work>
+                <a href="/funtime-2016">
+                    <img src=/img/works/funtime-2016.png alt="Funtime Kiev. Redesigned">
+                    <div class=mask-work></div>
+                </a>
+            </div>
+        </div>
+        <div class="four columns">
+            <div class=info-works>
+                <h6>Funtime Kiev. Redesigned</h6>
+                <p>
+                    <strong>Date:</strong>
+                    <time datetime="2016-06-01">01.06.2016</time>
+                </p>
+                <a class=inner-button-works target=_blank href=https://funtime.kiev.ua>funtime.kiev.ua</a>
+            </div>
+        </div>
+    </div>
+
     <div class=works-sec>
         <div class=container>
             <div class="three columns">
@@ -71,6 +96,8 @@
             </div>
         </div>
     </div>
+
+
     <div class=container>
         <div class="three columns">
             <div class="client client8"></div>
@@ -94,6 +121,8 @@
             </div>
         </div>
     </div>
+
+
     <div class=works-sec>
         <div class=container>
             <div class="three columns">
@@ -119,6 +148,8 @@
             </div>
         </div>
     </div>
+
+
     <div class=container>
         <div class="three columns">
             <div class="client client6"></div>
@@ -142,6 +173,8 @@
             </div>
         </div>
     </div>
+
+
     <div class=works-sec>
         <div class=container>
             <div class="three columns">
