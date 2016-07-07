@@ -1,6 +1,6 @@
 <?php
 
-$injector = new \Auryn\Provider();
+$injector = new \Auryn\Injector();
 
 $injector->alias('Http\Response', 'Http\HttpResponse');
 $injector->share('Http\HttpRequest');

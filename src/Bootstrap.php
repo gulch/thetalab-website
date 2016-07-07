@@ -32,11 +32,11 @@ $response = $injector->make('Http\HttpResponse');
 /*
  * Register the error handler
  */
-$whoops = new \Whoops\Run();
 if ($config['environment'] !== 'production') {
+    $whoops = new \Whoops\Run();
     $whoops->pushHandler(new \Whoops\Handler\PrettyPageHandler());
+    $whoops->register();
 }
-$whoops->register();
 
 /*
  * Routes

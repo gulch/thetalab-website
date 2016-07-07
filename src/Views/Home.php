@@ -49,12 +49,60 @@
     <div class=works-sec>
         <div class=container>
             <div class="three columns">
-                <div class=client7></div>
+                <div class="client client9"></div>
+            </div>
+            <div class="nine columns">
+                <div class=view-work>
+                    <a href="/funtime">
+                        <img src=/img/works/901.jpg alt="Funtime - usefully time!">
+                        <div class=mask-work></div>
+                    </a>
+                </div>
+            </div>
+            <div class="four columns">
+                <div class=info-works>
+                    <h6>Funtime</h6>
+                    <p>
+                        <strong>Date:</strong>
+                        <time datetime="2015-05-11">11.05.2015</time>
+                    </p>
+                    <a class=inner-button-works target=_blank href="https://funtime.kiev.ua">funtime.kiev.ua</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class=container>
+        <div class="three columns">
+            <div class="client client8"></div>
+        </div>
+        <div class="nine columns">
+            <div class=view-work>
+                <a href="/gulch-in-ua">
+                    <img src=/img/works/801.jpg alt="Gulch Blog - Personal Blog. Gulch.in.ua">
+                    <div class=mask-work></div>
+                </a>
+            </div>
+        </div>
+        <div class="four columns">
+            <div class=info-works>
+                <h6>Gulch Blog. Redesigned</h6>
+                <p>
+                    <strong>Date:</strong>
+                    <time datetime="2015-02-03">03.02.2015</time>
+                </p>
+                <a class=inner-button-works target=_blank href=https://gulch.in.ua>gulch.in.ua</a>
+            </div>
+        </div>
+    </div>
+    <div class=works-sec>
+        <div class=container>
+            <div class="three columns">
+                <div class="client client7"></div>
             </div>
             <div class="nine columns">
                 <div class=view-work>
                     <a href="/oha-oha">
-                        <img src=imagez/works/701.jpg alt="Oha-Oha!">
+                        <img src=/img/works/m701.jpg alt="Oha-Oha!">
                         <div class=mask-work></div>
                     </a>
                 </div>
@@ -73,12 +121,12 @@
     </div>
     <div class=container>
         <div class="three columns">
-            <div class=client6></div>
+            <div class="client client6"></div>
         </div>
         <div class="nine columns">
             <div class=view-work>
                 <a href="/gulch-blog">
-                    <img src=imagez/works/601.jpg alt="Personal Blog Gulch.tk">
+                    <img src=/img/works/m601.jpg alt="Personal Blog Gulch.tk">
                     <div class=mask-work></div>
                 </a>
             </div>
@@ -90,19 +138,19 @@
                     <strong>Date:</strong>
                     <time datetime="2014-01-03">01.03.2014</time>
                 </p>
-                <a class=inner-button-works target=_blank href=http://gulch.in.ua>gulch.in.ua</a>
+                <a class=inner-button-works target=_blank href=https://gulch.in.ua>gulch.in.ua</a>
             </div>
         </div>
     </div>
     <div class=works-sec>
         <div class=container>
             <div class="three columns">
-                <div class=client5></div>
+                <div class="client client5"></div>
             </div>
             <div class="nine columns">
                 <div class=view-work>
                     <a href="/sphered-project">
-                        <img src=imagez/works/501.jpg alt="new website for Sphered.com.ua">
+                        <img src=/img/works/m501.jpg alt="new website for Sphered.com.ua">
                         <div class=mask-work></div>
                     </a>
                 </div>
@@ -121,12 +169,12 @@
     </div>
     <div class=container>
         <div class="three columns">
-            <div class=client4></div>
+            <div class="client client4"></div>
         </div>
         <div class="nine columns">
             <div class=view-work>
                 <a href="/mono-pano2vr">
-                    <img src=imagez/works/401.jpg alt="Mono Virtual Tour Panel">
+                    <img src=/img/works/m401.jpg alt="Mono Virtual Tour Panel">
                     <div class=mask-work></div>
                 </a>
             </div>
@@ -145,12 +193,12 @@
     <div class=works-sec>
         <div class=container>
             <div class="three columns">
-                <div class=client3></div>
+                <div class="client client3"></div>
             </div>
             <div class="nine columns">
                 <div class=view-work>
                     <a href="/sphered">
-                        <img src=imagez/works/101.jpg alt="Virtual tours, panoramas - sphered.com.ua">
+                        <img src=/img/works/m101.jpg alt="Virtual tours, panoramas - sphered.com.ua">
                         <div class=mask-work></div>
                     </a>
                 </div>
@@ -169,12 +217,12 @@
     </div>
     <div class=container>
         <div class="three columns">
-            <div class=client2></div>
+            <div class="client client2"></div>
         </div>
         <div class="nine columns">
             <div class=view-work>
                 <a href="sphered-blog">
-                    <img src=imagez/works/201.jpg alt="Blog for Sphered project">
+                    <img src=/img/works/m201.jpg alt="Blog for Sphered project">
                     <div class=mask-work></div>
                 </a>
             </div>
@@ -193,12 +241,12 @@
     <div class=works-sec>
         <div class=container>
             <div class="three columns">
-                <div class=client1></div>
+                <div class="client client1"></div>
             </div>
             <div class="nine columns">
                 <div class=view-work>
                     <a href="/novy-format">
-                        <img src=imagez/works/301.jpg alt="Website for company Новый формат">
+                        <img src=/img/works/m301.jpg alt="Website for company Новый формат">
                         <div class=mask-work></div>
                     </a>
                 </div>
@@ -224,9 +272,9 @@
         </div>
         <div class="one-third column">
             <div class=text-and-icon>
-                <img class=contact-image height=32 width=32 src="{{ 'imagez/email27.png'|baseuri }}" alt="Email">
+                <img class=contact-image height=32 width=32 src="{{ 'img/general/email.png'|baseuri }}" alt="Email">
                 <span>
-                    <a href="mailto:contact@thetalab.tk" onclick="yaCounter23995183.reachGoal('email_click'); return true;">
+                    <a href="mailto:contact@thetalab.tk">
                         <span>contact@thetalab.tk</span>
                     </a>
                 </span>
@@ -234,7 +282,7 @@
         </div>
         <div class="one-third column">
             <div class=text-and-icon>
-                <img class=contact-image height=32 width=32 src="{{ 'imagez/world90.png'|baseuri }}" alt="Address">
+                <img class=contact-image height=32 width=32 src="{{ 'img/general/world.png'|baseuri }}" alt="Address">
                 <span>Kyiv, Ukraine</span>
             </div>
         </div>

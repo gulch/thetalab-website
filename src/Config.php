@@ -2,7 +2,7 @@
 
 return [
     // production || development
-    'environment'   => 'production',
-    'cache_enabled' => true,
+    'environment'   => 'development',
+    'cache_enabled' => false,
     'cache_path'    => __DIR__.'/Cache/',
 ];

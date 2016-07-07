@@ -6,7 +6,6 @@
 
     ga('create', 'UA-39619543-1', 'auto');
     ga('send', 'pageview');
-
 </script>
 
 <!-- Yandex.Metrika counter -->
