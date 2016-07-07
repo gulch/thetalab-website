@@ -73,7 +73,7 @@ foreach ($response->getHeaders() as $header) {
 }
 
 if ($config['environment'] === 'production') {
-    $response->setContent(\ThetaLab\Lib\Minify::minifyHTML($response->getContent()));
+    $response->setContent(\gulch\GMinify::minifyHTML($response->getContent()));
 
     if ($config['cache_enabled'] && $response->getStatusCode() === 200) {
         file_put_contents($config['cache_path'].sha1($request->getPath()), $response->getContent());
