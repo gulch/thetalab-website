@@ -49,7 +49,7 @@
 
     <link rel="image_src" href="/img/general/thetalab-social-img-cover.jpg">
 
-    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/style.min.css">
 </head>
 <body>
     {% block header %}{% endblock %}
